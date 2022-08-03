@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Averta-Regular', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff
+}
+.section1{
+    background: url(bodyback.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.zuri-team-logo{
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    padding-top: 69px;
+    margin-bottom: 69px;
+}
+.help-div{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 50%;
+    padding: 10px;
+}
+.learn-h2{
+    font-size: 32px;
+    line-height: 48px;
+    text-align: center;
+    font-weight: 800;
+    color: #514949;
+    margin-bottom: 36px;
+}
+.learn-p{
+    font-size: 17.5px;
+    line-height: 24px;
+    color: #514949;
+    opacity: 0.9;
+    box-sizing: border-box;
+    font-family: Averta, sans-serif;
+    font-weight: 400;
+    margin-bottom: 1rem;
+}
+a{
+    color: #e7332b;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+.btn-div{
+    width: 50%;
+    margin: auto;
+    margin-top: 92px;
+    text-align: center;
+
+}
+.left-btn{
+    background-color: #E7332B;
+    color: #fff;
+    font-weight: 400;
+    margin-right: 24px;
+    padding: 11px 28px;
+    border: 1px solid #E7332B;
+}
+.right-btn:hover{
+    background-color: #E7332B;
+    color: #fff;
+    padding: 11px 28px;
+    border: 1px solid #E7332B;
+}
+.right-btn{
+
+}
