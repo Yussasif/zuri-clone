@@ -49,7 +49,7 @@ body{
     color: #514949;
     opacity: 0.9;
     box-sizing: border-box;
-    font-family: Averta, sans-serif;
+    /* font-family: Averta, sans-serif; */
     font-weight: 400;
     margin-bottom: 1rem;
 }
