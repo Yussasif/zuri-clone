@@ -23,23 +23,23 @@ body{
     width: 100%;
     text-align: center;
     margin: auto;
+    height: 88px;
     padding-top: 69px;
     margin-bottom: 69px;
 }
 .help-div{
     margin: auto;
-    display: flex;
+    width: 700px;
     flex-direction: column;
     align-items: center;
     text-align: center;
-    width: 50%;
     padding: 10px;
 }
 .learn-h2{
     font-size: 32px;
     line-height: 48px;
-    font-family: 'Averta-Regular', sans-serif;
     text-align: center;
+    width: 680px;
     font-weight: 800;
     color: #514949;
     margin-bottom: 36px;
@@ -47,6 +47,8 @@ body{
 .learn-p{
     font-size: 16px;
     line-height: 24px;
+   
+    /* height: 72px; */
     color: #514949;
     opacity: 0.9;
     box-sizing: border-box;
@@ -57,11 +59,9 @@ body{
 a{
     color: #e7332b;
     text-decoration: none;
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.5;
 }
 .btn-div{
+
     width: 50%;
     margin: auto;
     margin-top: 92px;
